@@ -7,7 +7,7 @@ $c = $a + $b;
 
 echo "a="$a;
 
-echo "b="$b
+echo "b="$b;
 
 echo "a + b =".$c."\n";
 
